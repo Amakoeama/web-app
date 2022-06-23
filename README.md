@@ -1,2 +1,4 @@
-# web-app
-Student Web application
+# maven-project
+
+Simple Maven Project conflict
+
